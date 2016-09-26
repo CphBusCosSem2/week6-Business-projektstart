@@ -1,6 +1,7 @@
 # week6-Business-projektstart
 ##Day1 Virksomhed og organisation
 ###Generel virksomheds og organisationforståelse.
+[slides](virksomheden 1.ppt)
 ##Day2 Kravspec (delvis repetition fra 1. sem.) + Grupper/team
 ###Vi snakker krav, som oplæg til jeres projekt.
 ###VIGTIGT - vi danner grupper til semesterprojektet!
