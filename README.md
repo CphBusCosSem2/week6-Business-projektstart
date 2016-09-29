@@ -12,5 +12,6 @@
 ##Day4 Business-modellering med UML
 ###Vi fortsætter fra i går.
 ##Day5	Individuel Study-pointopgave i modellering/UML
+###Opgaven findes på Fronter under afleveringer!
 
 
